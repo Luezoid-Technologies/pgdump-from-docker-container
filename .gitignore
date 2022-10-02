@@ -1,0 +1,6 @@
+.idea
+.env.example.sh
+
+!.gitignore
+!pg-dump/.gitignore
+!pg-dump/split/.gitignore
