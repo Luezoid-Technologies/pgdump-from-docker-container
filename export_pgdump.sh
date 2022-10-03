@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ./.env.example.sh
+source ./.env.sh
 
 SCRIPT="
 #!/bin/bash

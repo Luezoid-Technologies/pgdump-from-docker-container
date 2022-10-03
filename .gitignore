@@ -1,5 +1,5 @@
 .idea
-.env.example.sh
+.env.sh
 
 !.gitignore
 !pg-dump/.gitignore
